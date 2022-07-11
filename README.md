@@ -1,35 +1,35 @@
 # testing_triggers
-<h3><b>Here we test the latencies of triggers in the EEG room<b><h3>
+<h3>Here we test the latencies of triggers in the EEG room<h3>
 
-<h4><b>Instructions for the recording computer:<b><h4>
+<h4>Instructions for the recording computer:<h4>
 
-<b>//How to initialize communication with the eyetracker<b>
+//How to initialize communication with the eyetracker
 1. In anaconda prompt:
 conda activate eeg_eye #activating the environment
 Jupyter notebook #opening the jupyter notebook
 2. open the notebook et_lsl_recorder.ipynb
 
 
-<b>//How to initialize communication with the EEG<b>
+//How to initialize communication with the EEG
 
 1. turn on the amplifier (purple) and the battery (black box on experimenter room) (
 2. enter the eego software (make sure you see 'green' signals in the right bottom screen - showing communication with the amp)
 3. go to "acquire"
 4. choose a subject (or define one), and press next
 
-<b>//How to initialize communication with the LSL<b>
+//How to initialize communication with the LSL
 
 1. enter the tobii_trigger_ttl.ipynb notebook
 2. run all
 
-<b>//Record with LabRecorder <b>
+//Record with LabRecorder
 1. open the software LabRecorder
 2. select the from the list of streams the one you want (usually all of them). if you don't see your streams press 'update'
 3. change the file and location on the right according to the experiment, and start recording
 4. start recording (on lab recorder)
 
 
-<h4><b>Instructions for the stimulus computer:<b><h4>
+<h4>Instructions for the stimulus computer:<h4>
   
 //Record all triggers
 
