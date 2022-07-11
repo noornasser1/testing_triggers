@@ -1,7 +1,7 @@
 # testing_triggers
-<h3>**Here we test the latencies of triggers in the EEG room**<h3>
+**<h3>Here we test the latencies of triggers in the EEG room<h3>**
 
-<h4>**Instructions for the recording computer:**<h4>
+<h4>Instructions for the recording computer:<h4>
 
 //How to initialize communication with the eyetracker
 1. In anaconda prompt:
@@ -29,7 +29,7 @@ Jupyter notebook #opening the jupyter notebook
 4. start recording (on lab recorder)
 
 
-<h4>**Instructions for the stimulus computer:**<h4>
+<h4>Instructions for the stimulus computer:<h4>
   
 //Record all triggers
 
